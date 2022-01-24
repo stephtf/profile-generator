@@ -16,7 +16,6 @@ This application allows users to easily create an html page featuring their team
 
 * [License](#license)
 
-
 * [Questions](#questions)
 
 ## Installation 
@@ -34,18 +33,6 @@ This app can be used to save time when creating a company website.
 ## License
 
 This project is licensed under the MIT license.
-
-
-## Contributing 
-
-
-## Tests 
-To run tests, run the following command:
-
-```
-
-```
-
 
 ## Questions 
 
