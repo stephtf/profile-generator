@@ -1,9 +1,9 @@
-const manager = require('../lib/manager');
+const Questions = require('../lib/index');
 
 
 describe("saves the name, id, email, school, and role of the manager", () => {
 
-    const manager = new Manager();
+    const questions = new Questions();
 
     expect(manager.name).toEqual(String); 
 
@@ -12,7 +12,5 @@ describe("saves the name, id, email, school, and role of the manager", () => {
     expect(manager.email).toEqual(String); 
 
     expect(manager.office).toEqual(Number); 
-
-    expect(manager.role).toEqual("Manager"); 
 
 });

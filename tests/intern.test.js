@@ -1,18 +1,16 @@
-const intern = require('../lib/intern');
+const Questions = require('../lib/index');
 
 
 describe("saves the name, id, email, school, and role of the intern", () => {
 
-    const intern = new Intern();
+    const questions = new Questions();
 
-    expect(intern.name).toEqual(String); 
+    expect(internName).toEqual(String); 
 
-    expect(intern.id).toEqual(Number); 
+    expect(internId).toEqual(Number); 
 
-    expect(inter.email).toEqual(String); 
+    expect(interEmail).toEqual(String); 
 
-    expect(inter.school).toEqual(String); 
-
-    expect(intern.role).toEqual("Intern"); 
+    expect(internSchool).toEqual(String); 
 
 });

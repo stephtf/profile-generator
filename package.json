@@ -4,7 +4,7 @@
   "description": "this application allows the user to easily create a profile page in html",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/stephtf/profile-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
   }
 }

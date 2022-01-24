@@ -1,15 +1,15 @@
-const engineer = require('../lib/engineer');
+const Questions = require('../lib/index');
 
 
-describe("saves the name, id, email, and role of the engineer", () => {
-    const engineer = new engineer();
+describe("saves the name, id, email, github, and role of the engineer", () => {
+    const questions = new Questions();
 
-    expect(engineer.name).toEqual(String); 
+    expect(engineerName).toEqual(String); 
 
-    expect(engineer.id).toEqual(Number); 
+    expect(engineerId).toEqual(Number); 
 
-    expect(engineer.email).toEqual(String); 
+    expect(engineerEmail).toEqual(String); 
 
-    expect(engineer.role).toEqual("Engineer"); 
+    expect(engineerGithub).toEqual(String); 
 
 });
