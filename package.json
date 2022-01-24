@@ -1,0 +1,25 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "this application allows the user to easily create a profile page in html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephtf/profile-generator.git"
+  },
+  "keywords": [
+    "profile-generator"
+  ],
+  "author": "Steph Fajardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephtf/profile-generator/issues"
+  },
+  "homepage": "https://github.com/stephtf/profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
