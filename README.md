@@ -10,7 +10,7 @@ This application allows users to easily create an html page featuring their team
 
 ## Table of Contents 
 
-* [Walkthrough Video](#walkthrough)
+* [Walkthrough](#walkthrough)
 
 * [Installation](#installation)
 
@@ -20,7 +20,8 @@ This application allows users to easily create an html page featuring their team
 
 * [Questions](#questions)
 
-## Walkthrough Video
+## Walkthrough
+Here is a video that demonstrates exactly how the app works: 
 https://watch.screencastify.com/v/hcNt3wCoqTJqWsCFnNN2
 
 ## Installation 
