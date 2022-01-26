@@ -10,6 +10,8 @@ This application allows users to easily create an html page featuring their team
 
 ## Table of Contents 
 
+* [Walkthrough Video](#walkthrough)
+
 * [Installation](#installation)
 
 * [Usage](#usage)
@@ -17,6 +19,9 @@ This application allows users to easily create an html page featuring their team
 * [License](#license)
 
 * [Questions](#questions)
+
+## Walkthrough Video
+https://watch.screencastify.com/v/hcNt3wCoqTJqWsCFnNN2
 
 ## Installation 
 
@@ -33,6 +38,7 @@ This app can be used to save time when creating a company website.
 ## License
 
 This project is licensed under the MIT license.
+
 
 ## Questions 
 
