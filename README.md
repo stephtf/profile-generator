@@ -7,7 +7,6 @@
 This application allows users to easily create an html page featuring their team's profiles. Users are prompted with a series of questions about their team and are asked to input information about their team managers, engineers, and interns. The questions include name, ID number, email, office number, Github, and school. After entering this information, the data is added to a newly created html page. 
 
 
-
 ## Table of Contents 
 
 * [Walkthrough](#walkthrough)
