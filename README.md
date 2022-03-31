@@ -22,7 +22,7 @@ This application allows users to easily create an html page featuring their team
 
 ## Walkthrough
 Here is a video that demonstrates exactly how the app works: 
-https://watch.screencastify.com/v/hcNt3wCoqTJqWsCFnNN2
+https://youtu.be/NrD-8B282Uc
 
 ## Installation 
 
@@ -43,4 +43,4 @@ This project is licensed under the MIT license.
 
 ## Questions 
 
-If you have any questions about the repo, open an issue or contact me directly at stephfajardo@gatech.edu. You can find more of my work at [stephtf](https://github.com/stephtf/).
+If you have any questions about the repo, open an issue or contact me directly at stfajardo@gmail.com. You can find more of my work at [stephtf](https://github.com/stephtf/) or by visiting my website at [https://www.stephfajardo.com](https://www.stephfajardo.com).
